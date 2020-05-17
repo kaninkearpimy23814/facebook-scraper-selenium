@@ -6,12 +6,15 @@ from dotenv import load_dotenv, find_dotenv
 load_dotenv(find_dotenv())
 
 # User credentials
-EMAIL = os.getenv("EMAIL")
-PASSWORD = os.getenv("PASSWORD")
+# EMAIL = os.getenv("EMAIL")
+# PASSWORD = os.getenv("PASSWORD")
+
+EMAIL = 'kanin23814@gmail.com'
+PASSWORD = 'kaninkearpimy9987'
 
 # Required binaries
 BROWSER_EXE = '/usr/bin/firefox'
-GECKODRIVER = '/usr/bin/geckodriver'
+GECKODRIVER = '/Volumes/work/code/python/Scrapy/facebook-scraper-selenium/driver/chromedriver'
 FIREFOX_BINARY = FirefoxBinary(BROWSER_EXE)
 
 #  Code to disable notifications pop up of Chrome Browser

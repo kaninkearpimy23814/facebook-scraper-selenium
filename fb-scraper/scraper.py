@@ -26,15 +26,14 @@ class CollectPosts(object):
         self.depth = depth + 1
         self.delay = delay
         # browser instance
-        self.browser = webdriver.Firefox(executable_path=GECKODRIVER,
-                                         firefox_binary=FIREFOX_BINARY,
-                                         firefox_profile=PROFILE,)
+        self.browser = webdriver.Chrome(executable_path=GECKODRIVER)
         utils.create_csv(self.out_file)
 
 
     def collect_page(self, page):
         # navigate to page
         self.browser.get(
+
             'https://www.facebook.com/' + page + '/')
 
         # Scroll down depth-times and wait delay seconds to load
