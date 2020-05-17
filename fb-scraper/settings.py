@@ -9,8 +9,8 @@ load_dotenv(find_dotenv())
 # EMAIL = os.getenv("EMAIL")
 # PASSWORD = os.getenv("PASSWORD")
 
-EMAIL = 'kanin23814@gmail.com'
-PASSWORD = 'kaninkearpimy9987'
+EMAIL = ''
+PASSWORD = ''
 
 # Required binaries
 BROWSER_EXE = '/usr/bin/firefox'
