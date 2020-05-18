@@ -8,6 +8,8 @@ import sys
 import time
 import calendar
 import utils
+import csv
+import codecs
 from settings import BROWSER_EXE, FIREFOX_BINARY, GECKODRIVER, PROFILE
 
 
@@ -72,6 +74,9 @@ class CollectPosts(object):
 
             # Write row to csv
             utils.write_to_csv(self.out_file, analysis)
+            with open('post_csv.csv', 'w+', newline='', encoding='utf-8') as csv_file:
+                writer = csv.writer(csv_file, delimiter=";")
+                writer.writerow('my_utf8_string')
 
     def collect_groups(self, group):
         # navigate to page
@@ -97,6 +102,8 @@ class CollectPosts(object):
             "userContentWrapper")
         poster_names = self.browser.find_elements_by_xpath(
             "//a[@data-hovercard-referer]")
+        # with open('post_csv.csv', 'w+', newline='', encoding='utf-8') as csv_file:
+        #     writer = csv.writer(csv_file, delimiter=";")
 
         for count, post in enumerate(posts):
             # Creating first CSV row entry with the poster name (eg. "Donald Trump")
@@ -112,8 +119,10 @@ class CollectPosts(object):
             status = utils.strip(text)
             analysis.append(status)
 
+
             # Write row to csv
             utils.write_to_csv(self.out_file, analysis)
+
 
     def collect(self, typ):
         if typ == "groups":

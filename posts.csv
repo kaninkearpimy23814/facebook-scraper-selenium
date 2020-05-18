@@ -1,10 +1,24 @@
 Author,uTime,Text
-Kanin Kearpimy,1540833374,31102018 โจทยตอนนทมคอ 1. Page MSP KMUTNB เคลยรแลว 2. ประชมเพอวาง Flow การทำงานทงหมด เคลยรแลว... See More
-Kanin Kearpimy,1541170278,การแบง Customer แบงไดเปน 5 ระดบ 1. Innovators WE ARE 2. Early Adopters Who we try to find out in test next week 3. Early Majority... See More
-Eciion Nontapat,1540990429,Design Logo  Cover for facebook page Profile Picture 1. KMUTNB 2. MSP  Microsoft Student Partner... See More
-Kanin Kearpimy,1540910025,อยากขอนดประชมวนศกรน 02112018 ชวงกลางคน เวลา 2100 นะครบ Topic  MSP plan for next 6 month วางแผนสำหรบ 6 เดอนขางหนา... See More
-Adison Senapradit,1540833374,31102018 โจทยตอนนทมคอ 1. Page MSP KMUTNB เคลยรแลว 2. ประชมเพอวาง Flow การทำงานทงหมด เคลยรแลว... See More
-Kanin Kearpimy,1540832560,
-Eciion Nontapat,1540106643,Microsoft Student Partner at KMUTNB
-Kanin Kearpimy,1539959185,
-Kanin Kearpimy,1539955821,
+Charin Polpanumas,1589794005,Eric Weber on linkedin
+Charin Polpanumas,1589793944,Great series for modern chatbot building from bags of words to space embeddings with Rasa. Definitely worth your time.
+Charin Polpanumas,1589793418,เดี๋ยวนี้เห็นงานคุณภาพประมาณนี้ไม่ต้องกดเข้าไปดูก็รู้ว่าใครทำ
+Tontan Wannaphong Phatthiyaphaibun,1589546113,Practical SQL by DataCheckie
+Charin Polpanumas,1589732912,ขอความคิดเห็นหน่อยครับ มันเป็นไปได้หรือเปล่าครับที่โพสต์ใน FB จะมีคอมเมนท์สูงลิ่ว ห่างจาก จำนวนไลค์เยอะขนาดนี้ ใน Page ของท่านผู้นำยังไม่ถึงขนาดนี้เลย... See More
+Phusit Somboonyingsuk,1589716201,ใครชนะกันอีกสักโพส
+Charin Polpanumas,1588761035,"I'm extra hyped to be talking about how to make end-to-end product search with elastic stack (work done by June Benyapa and Nattapol Vannaboot), embeddings and learning-to-rank (work done by Witchapong Daroontham) at Data Science SG (thanks to Koo Ping Shung for the opportunity). Data Science BKK has copie... taken inspiration of this historical meetup in Singapore (thanks to John Berns for suggesting ""hey if there is no good meetup in Thailand to recruit from you should just... See More"
+Art Suriyawongkul,1589701787,
+Charin Polpanumas,1589686528,Is this the Rmarkdown for Python we deserve?
+Nattapol Vannaboot,1589685027,ใครไม่ชนะ
+Charin Polpanumas,1589679452,We might not know how to correctly pronounce it but we can learn why to use it
+Tontan Wannaphong Phatthiyaphaibun,1589638053,โลกทุกวันนี้เทคโนโลยี NLP เต็มไปด้วยโมเดลดีๆ เช่น โมเดลทำหุ่นยนต์ที่คุยกับเราได้อย่างเป็นธรรมชาติ DialoGPT ติดอยู่แค่ว่าภาษาไทยของเราไม่มีชุดข้อมูล conversation อย่าง taskmaster-1 ไว้ใช้เทรนเท่านั้นเอง ...หรือว่าเรามี? coming soon to jupyter notebooks near you.
+Charin Polpanumas,1589629685,
+Charin Polpanumas,1589602168,
+Sirakorn Lamyai,1589555998,"[ไก่กับไข่-อิแตวอนคลาสกับโคชูจัง] วันก่อนยุให้พี่ป๋องช่วยทำโน้ตบุ๊คเกี่ยวกับการดึงข้อมูล Google Trends วันนี้เลยมาใช้หนี้ให้ community โดยการเอางานของเพื่อนร่วมงานมาแนะนำ (ก็ยังไม่ได้ทำเองไม่ใช่หรอฟะ!?) JuNee Matupumanon ช่วยเพื่อนทำการบ้านเรื่อง Granger causality ที่เปเปอร์ Thurman and Fisher (1988) อันลือลั่นใช้ ""พิสูจน์"" ว่า ""ไก่กับไข่อะไรเกิดก่อนกัน"" คราวนี้เราปรับมาใช้กับปรากฎการณ์ซีรี่ส์เกาหลี itaewon class ที่ทำเอาโคชูจังหมดไปหลายร้าน แล้วเราจะสามารถ ""พิสูจน์"" ว่าความ... See More"
+Charin Polpanumas,1589537847,
+Charin Polpanumas,1589525579,Fundamentals Friday
+Charin Polpanumas,1589422324,"A different kind of MT ``` A decade after speech was first decoded from human brain signals, accuracy and speed remain far below that of natural speech. Here we show how to decode the electrocorticogram with high accuracy and at natural-speech rates. Taking a cue from recent advances in machine translation, we train a recurrent neural network to encode each sentence-length sequence of neural activity into an abstract representation, and then to decode this representation, wor... See More"
+Sarana Nutanong,1589385966,มาดูกันว่าคุณพร้อมเปิดคอร์ส P-R-A-C-T-I-C-A-L SQL by [insert name] หรือยัง ไม่ต้องห่วงแบบทดสอบน่าจะไม่มีให้ใช้ windows function เพราะมันไม่ language agnostic
+,1589424434,"Hello fellow data science and AI enthusiast! This year, beside starting my own website, I have started podcasting as well and here is the first episode. Again, any feedback is welcome. If you'll like a certain topics to be discussed, please let me know too. :) Hope you enjoy it and I thank you in advance for spending your precious time on it. :)"
+IEEE Spectrum,1589435509,technically we are a technical conversation group (no pun intended) but implications of our implementation are also worth discussing. How do you prevent fraudulent/malicious check-ins and reports due to covid tracing apps?
+Charin Polpanumas,1589373484,I’m a sucker for articles about requiring less data / labels. This is since last December though.
+Korakot Chaovavanich,1589346237,who doesn't graph..

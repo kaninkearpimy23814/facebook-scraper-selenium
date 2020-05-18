@@ -11,11 +11,7 @@ def strip(string):
     words = string.split()
     words = [word for word in words if "#" not in word]
     string = " ".join(words)
-    clean = ""
-    for c in string:
-        if str.isalnum(c) or (c in [" ", ".", ","]):
-            clean += c
-    return clean
+    return string
 
 def write_to_csv(filename, data):
     with open(filename, "a+", newline='', encoding="utf-8") as save_file:
